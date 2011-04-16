@@ -1,0 +1,12 @@
+{
+  "name": "moon",
+  "description": "js&css file server on top of nodejs",
+  "version": "0.1.0",
+  "author": "Yuanyan <yuanyan.cao@gmail.com>",
+  "licenses": ["MIT"], 
+  "dependencies": {},
+  "keywords": ["static","js","css"],
+  "url": "http://github.com/yuanyan/moon",  
+  "repository": "git://github.com/yuanyan/moon",
+  "engines": { "node": ">= 0.4.1" }
+}
