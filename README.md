@@ -1,5 +1,4 @@
-###modulejs - modular javascript framework
-moon is a js&css file server on top of nodejs. 
+###moon is a js&css file server on top of nodejs. 
 
 yuanyan.cao@gmail.com
 
